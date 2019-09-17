@@ -1,0 +1,17 @@
+<Advertisements>
+<Ad>
+<ImageUrl>~/Music4.jpg</ImageUrl>
+<Height>150px</Height>
+  <Width>300px</Width>
+</Ad>
+<Ad>
+<ImageUrl>~/Music5.jpg</ImageUrl>
+  <Height>150px</Height>
+  <Width>300px</Width>
+</Ad>
+<Ad>
+<ImageUrl>~/Music6.jpg</ImageUrl>
+  <Height>150px</Height>
+  <Width>300px</Width>
+</Ad>
+</Advertisements>

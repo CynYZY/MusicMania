@@ -1,0 +1,24 @@
+D:\Asp.net\Keycheck_App\MusicMania\MusicMania\bin\MusicMania.dll
+D:\Asp.net\Keycheck_App\MusicMania\MusicMania\bin\MusicMania.pdb
+D:\Asp.net\Keycheck_App\MusicMania\MusicMania\obj\Debug\MusicMania.csprojResolveAssemblyReference.cache
+D:\Asp.net\Keycheck_App\MusicMania\MusicMania\obj\Debug\MusicMania.dll
+D:\Asp.net\Keycheck_App\MusicMania\MusicMania\obj\Debug\MusicMania.pdb
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.1\MusicMania\MusicMania\bin\MusicMania.dll
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.1\MusicMania\MusicMania\bin\MusicMania.pdb
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.1\MusicMania\MusicMania\obj\Debug\MusicMania.csprojResolveAssemblyReference.cache
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.1\MusicMania\MusicMania\obj\Debug\MusicMania.dll
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.1\MusicMania\MusicMania\obj\Debug\MusicMania.pdb
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.2\MusicMania\MusicMania\bin\MusicMania.dll
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.2\MusicMania\MusicMania\bin\MusicMania.pdb
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.2\MusicMania\MusicMania\obj\Debug\MusicMania.csprojResolveAssemblyReference.cache
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.2\MusicMania\MusicMania\obj\Debug\MusicMania.dll
+D:\Asp.net\LG_Review\Chapter 2\Final Keycheck\Keychecked_Solutions\Activity 2.2\MusicMania\MusicMania\obj\Debug\MusicMania.pdb
+D:\NIIT\ASP MVC\ASP MVC\Introduction to Web Applications Development Using ASP.Net-TIRM\05_Datafiles For Faculty\Chapter 02\Activities\Activity 2.3\Input Files\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.csprojResolveAssemblyReference.cache
+D:\NIIT\ASP MVC\ASP MVC\Introduction to Web Applications Development Using ASP.Net-TIRM\05_Datafiles For Faculty\Chapter 02\Activities\Activity 2.3\Input Files\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.dll
+D:\NIIT\ASP MVC\ASP MVC\Introduction to Web Applications Development Using ASP.Net-TIRM\05_Datafiles For Faculty\Chapter 02\Activities\Activity 2.3\Input Files\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.pdb
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\bin\MusicMania.dll.config
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\bin\MusicMania.dll
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\bin\MusicMania.pdb
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.csprojResolveAssemblyReference.cache
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.dll
+F:\ASP.NET dev\Chapter 02\Activity\Input Files 2.3\MusicMania\MusicMania\MusicMania\obj\Debug\MusicMania.pdb
